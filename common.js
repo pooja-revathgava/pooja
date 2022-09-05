@@ -3,3 +3,7 @@
 function ganga(){
 	console.log('This is Ganga');
 }
+
+function ganga(){
+	console.log('This is Ganga');
+}
